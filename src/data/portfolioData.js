@@ -24,6 +24,17 @@ export const portfolioData = [
 
 {
     id: 3,
+    name : 'React CV',
+    languages : ['react'],
+    languagesIcons : ['fab fa-react'],
+    source: 'https://github.com/MustaphaAitHamou/React-CV',
+    info: 'Projet top secret en cours de développement',
+    picture: './media/secret.jpg'
+},
+
+
+{
+    id: 4,
     name : 'Project Blue-P',
     languages : ['react'],
     languagesIcons : ['fab fa-react'],
@@ -33,7 +44,7 @@ export const portfolioData = [
 },
 
 {
-    id: 4,
+    id: 5,
     name : 'Project Black Box',
     languages : ['Android'],
     languagesIcons : ['fab fa-android'],
@@ -43,7 +54,7 @@ export const portfolioData = [
 },
 
 {
-    id: 5,
+    id: 6,
     name : 'Project Liberty',
     languages : ['Android'],
     languagesIcons : ['fab fa-android'],
@@ -53,24 +64,45 @@ export const portfolioData = [
 },
 
 {
-    id: 6,
-    name : 'Tamazgha Web Site',
+    id: 7,
+    name : 'Project Unity',
     languages : ['react'],
     languagesIcons : ['fab fa-react'],
     source: 'secret',
-    info: 'lorem ipsum',
+    info: 'Projet top secret en cours de développement',
     picture: './media/secret.jpg'
 },
 
 {
-    id: 7,
+    id: 8,
     name : 'Resalocal',
     languages : ['Nuxt'],
     languagesIcons : ['fab fa-react'],
+    source: 'https://smartmap.talloires-lac-annecy.com/fr/favoris?item=42',
+    info: 'J\'ai effectué mon stage d\'étudiant de DUT au sein de l\'entreprise Resalocal, dans laquelle j\'ai eu comme projet Front-end de gérer entièrement l\'ajout d\'éléments en favoris',
+    picture: './media/secret.jpg'
+},
+
+{
+    id: 9,
+    name : 'Project PassMemory',
+    languages : ['C#'],
+    languagesIcons : ['fab fa-c#'],
     source: 'secret',
-    info: 'lorem ipsum',
+    info: 'Projet top secret en cours de développement',
+    picture: './media/secret.jpg'
+},
+
+{
+    id: 10,
+    name : 'Project Deployment',
+    languages : ['C#'],
+    languagesIcons : ['fab fa-c#'],
+    source: 'secret',
+    info: 'Projet top secret en cours de développement',
     picture: './media/secret.jpg'
 }
+
 
 
 ]
