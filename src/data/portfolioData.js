@@ -8,7 +8,7 @@ export const portfolioData = [
     languages : ['java'],
     languagesIcons : ['fab fa-java'],
     source: 'http://www.github.com',
-    info: 'Pour m\'entraîner à la programmation objet en java, j\'ai dévloppé un petit jeu Mario',
+    info: 'Pour m\'entraîner à la programmation objet en java, j\'ai développé un petit jeu Mario',
     picture: './media/project1.jpg'
 },
 
