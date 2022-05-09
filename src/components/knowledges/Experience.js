@@ -11,6 +11,11 @@ const Experience = () => {
             </p>
         </div>
 
+        <div className='exp-2'>
+        <h4>Développeur web - Dooklee</h4>
+            <h5>Février 2022 - </h5>
+            <p>Dooklee est un site de financement participatif ayant la particularité de prendre aucun pourcentage sur les cagnottes mises en lignes et sur les dons, j'ai pour rôle de contribuer à faire évoluer le site et lui donner un côté social</p>
+        </div>
         </div>
     );
 };

@@ -8,10 +8,9 @@ export default class ProjectList extends Component {
         projects:portfolioData,
         radios: [
             {id: 1, value: "java"},
-            {id: 2, value: "C#"},
-            {id: 3, value: "react"},
-            {id: 4, value: "Android"},
-            {id: 5, value: "Nuxt"}
+            {id: 2, value: "react"},
+            {id: 3, value: "Android"},
+            {id: 4, value: "Nuxt"}
         ],
         selectedRadio: 'java'
     };

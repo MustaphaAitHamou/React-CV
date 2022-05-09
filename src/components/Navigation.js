@@ -21,7 +21,7 @@ const Navigation = () => {
                 <NavLink exact to="/" activeClassName="navActive">
                     <i className='fas fa-home'></i>
                     <span>Accueil</span>
-                </NavLink>
+                </NavLink> 
                 </li>
                 <li>
                 <NavLink exact to="/competences" activeClassName="navActive">

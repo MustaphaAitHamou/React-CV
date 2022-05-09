@@ -10,11 +10,11 @@ const Hobbies = () => {
                 <span>Course à pied</span>
             </li>
             <li className='hobby'>
-                <i className='fas fa-bike'></i>
+                <i className='fas fa-bicycle'></i>
                 <span>Vélo</span>
             </li>
             <li className='hobby'>
-                <i className='fas fa-uniform-martial-arts'></i>
+                <i className='fas fa-feather-alt'></i>
                 <span>Judo</span>
             </li>
             <li className='hobby'>

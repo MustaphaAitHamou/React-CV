@@ -29,7 +29,6 @@ const OtherSkills = () => {
             <li>
                 <i className='fas fa-check-square'></i>
                 Bureautique Microsoft
-                (Word, Excel, Access, PowerPoint)
             </li>
 
             <li>
@@ -40,6 +39,11 @@ const OtherSkills = () => {
             <li>
                 <i className='fas fa-check-square'></i>
                 Git
+            </li>
+
+            <li>
+                <i className='fas fa-check-square'></i>
+                Notions en Back-end
             </li>
             
          </ul>

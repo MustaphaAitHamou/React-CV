@@ -7,12 +7,12 @@ class Languages extends Component {
             {id: 1, value: "C", xp:4},
             {id: 3, value: "Java", xp:3},
             {id: 4, value: "PHP", xp:2},
-            {id: 2, value: "C#", xp:0.1}
         ],
 
         frameworks:[
-            { id: 1, value: "NuxtJS", xp:1},
-            {id: 2, value: "ReactJS", xp:0.1},
+            {id: 1, value: "NuxtJS", xp:1.85},
+            {id: 2, value: "ReactJS", xp:1},
+            {id: 3, value: "NodeJS", xp:1},
         ],
     }
 
