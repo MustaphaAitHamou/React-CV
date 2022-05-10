@@ -49,7 +49,7 @@ const Navigation = () => {
 
             <ul>
                 <li>
-                    <a href='https://www.google.com' target="_blank" rel="noopener noreferrer">
+                    <a href='https://github.com/MustaphaAitHamou' target="_blank" rel="noopener noreferrer">
                         <i className='fab fa-github'></i>
                     </a>
                 </li>
