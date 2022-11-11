@@ -36,7 +36,7 @@ export default class Project extends Component {
                                 <div className='head'>
                                     <h2>{name}</h2>
                                     <div className='sourceCode'>
-                                        <a href={source} rel="noopener noreferrer" className="button" target="_blank">Jeter un coup d'œil <i className='fas fa-eye'></i></a>
+                                        <a href={source} rel="noopener noreferrer" className="button" target="_blank"><i className='fas fa-eye'></i></a>
                                     </div>
                                 </div>
 

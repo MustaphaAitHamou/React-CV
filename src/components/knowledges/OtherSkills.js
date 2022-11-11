@@ -33,6 +33,11 @@ const OtherSkills = () => {
 
             <li>
                 <i className='fas fa-check-square'></i>
+                Unreal Engine
+            </li>
+            
+            <li>
+                <i className='fas fa-check-square'></i>
                 Montage vidéo
             </li>
 
@@ -43,9 +48,15 @@ const OtherSkills = () => {
 
             <li>
                 <i className='fas fa-check-square'></i>
-                Notions en Back-end
+                Postman
             </li>
-            
+
+            <li>
+                <i className='fas fa-check-square'></i>
+                Divers SGBD
+            </li>
+
+       
          </ul>
         <ul>
 

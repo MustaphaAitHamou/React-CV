@@ -32,7 +32,7 @@
           box-shadow: 0 0 0 4px $color-3, 0 0 0 8px $color-4, 0 0 0 12px $color-2;
         }
         h3 {
-          font-size: 1.3rem;
+          font-size: 1.4rem;
           text-transform: uppercase;
           letter-spacing: .2rem;
           margin-top: 1.5rem;
@@ -65,7 +65,7 @@
           }
   
           i {
-            position: absolute;
+            position: relative;
             font-size: 0.95rem;
             transform: translateY(3px);
             transition: .2s ease;
@@ -125,14 +125,24 @@
     }
   }
   @media screen and (max-width: 850px){
+
+    .idContent{
+      img {
+        border-radius: 50%;
+        box-shadow: 0 0 0 4px $color-3, 0 0 0 8px $color-4, 0 0 0 12px $color-2;
+      }
+    }
+
     .sidebar {
       display: flex;
       min-height: 50px;
       margin-bottom: .2rem;
   
-      .id, .socialNetwork {
-        display: none;
-      }
+     .id, .socialNetwork {
+        display: none
+          }
+      
+
       .navigation {
         width: 100%;
         padding: .1rem 1rem;
@@ -149,6 +159,8 @@
     }
   }
   @media screen and (max-width:580px){
+
+    
     .sidebar {
       ul {
         justify-content: space-around !important;

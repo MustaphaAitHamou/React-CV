@@ -117,7 +117,7 @@
 .experience {
     grid-area: E;
     margin: 0 0 .5rem .5rem;
-    display: grid;
+    display: box;
     grid-template-columns: 1fr;
     grid-template-rows: 10% 1fr 1fr;
     grid-template-areas: 
@@ -180,12 +180,12 @@
 
       li {
         i {
-          position: absolute;
+          position: sticky;
           color: $color-5;
           
         }
         span {
-          position: absolute;
+          position: sticky;
           transform: translateX(2.2rem);
         }
       }
@@ -219,7 +219,7 @@
   }
 }
 }
-@media screen and (max-width: 500px){
+@media screen and (max-width: 200px){
 .knowledgesContent {
   display: grid !important;
   grid-template-columns: 1fr !important;
@@ -242,5 +242,6 @@
   }
 }
 }
+
 
   
