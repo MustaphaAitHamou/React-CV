@@ -28,7 +28,7 @@ export const portfolioData = [
     languages : ['react'],
     languagesIcons : ['fab fa-react'],
     source: 'https://github.com/MustaphaAitHamou/React-CV',
-    info: 'Projet top secret en cours de développement',
+    info: 'Le CV que vous voyez actuellement',
     picture: './media/reactcv.png'
 },
 
@@ -65,12 +65,12 @@ export const portfolioData = [
 
 {
     id: 7,
-    name : 'Project Unity',
+    name : 'La Hesserie',
     languages : ['react'],
     languagesIcons : ['fab fa-react'],
-    source: 'secret',
-    info: 'Projet top secret en cours de développement',
-    picture: './media/secret.jpg'
+    source: 'https://github.com/MustaphaAitHamou/La_Hesserie',
+    info: 'Site de livraisons de sandwiches à prix discount destiné aux étudiants dans les résidences universitaires de Nice (Site en cours de construction)',
+    picture: './media/hesserie.png'
 },
 
 {
@@ -81,6 +81,44 @@ export const portfolioData = [
     source: 'https://smartmap.talloires-lac-annecy.com/fr/favoris?item=42',
     info: 'J\'ai effectué mon stage d\'étudiant de DUT au sein de l\'entreprise Resalocal, dans laquelle j\'ai eu comme projet Front-end de gérer entièrement l\'ajout d\'éléments en favoris',
     picture: './media/resalocal.jpg'
+},
+
+{
+    id: 9,
+    name : 'Tamazgha',
+    languages : ['Laravel'],
+    languagesIcons : ['fab fa-laravel'],
+    source: 'https://github.com/MustaphaAitHamou/Tamazgha',
+    info: 'Site journalistique développé pour un client: le groupe \"Tamazgha\", site bientôt en production',
+    picture: './media/tamazgha.png'
+},
+
+{
+    id: 10,
+    name : 'Aknanir',
+    languages : ['HTML/CSS'],
+    languagesIcons : ['fab fa-html', 'fab fa-stripe'],
+    source: 'https://aknanir.com',
+    info: 'Site vitrine professionnel pour les clients afin les faire me communiquer leur projet, et leur facturer mes services via leur espace client (Site en version 1.0, des améliorations sont à venir), Aknanir est mon surnom de développeur',
+    picture: './media/aknanir.png'
+},
+{
+    id: 11,
+    name : 'Super Ahmed Averkan Bros',
+    languages : ['HTML/CSS'],
+    languagesIcons : ['fab fa-html', 'fab fa-stripe'],
+    source: 'https://superahmedaverkanbros.com',
+    info: 'Site et jeu développé pour un client et ami, s\'inspirant de mon jeu Mario en Java mais dédié à Ahmed Aberkane, qui est un personnage publique Kabyle, dans l\'unique but de s\'amuser avec ce personnage controversé et non de s\'en moquer. Le site sert à héberger le jeu vendu à 50 centimes seulement',
+    picture: './media/ahmedaverkan.png'
+},
+{
+    id: 12,
+    name : 'Netflix Clone',
+    languages : ['react'],
+    languagesIcons : ['fab fa-react', 'fab fa-stripe'],
+    source: 'https://github.com/MustaphaAitHamou/Tamurt_Video',
+    info: 'Site Clone de Netflix fonctionnel (Version 1.0) avec système de paiement et inscription',
+    picture: './media/NetflixClone.png'
 },
 
 

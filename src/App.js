@@ -17,7 +17,7 @@ const App = () => {
       <Route path="/competences" element={<Knowledges />}/>
       <Route path="/portfolio" element={<Portfolio />}/>
       <Route path="/contact" element={<Contact />}/>
-      <Route path="/secret" element={<NotAllowed/>}/>
+      <Route path="/secret" element={<NotAllowed />}/>
       <Route path="*" element={<NotFound />}/>
     </Routes>
 

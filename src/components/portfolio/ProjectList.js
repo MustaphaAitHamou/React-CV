@@ -10,7 +10,9 @@ export default class ProjectList extends Component {
             {id: 1, value: "java"},
             {id: 2, value: "react"},
             {id: 3, value: "Android"},
-            {id: 4, value: "Nuxt"}
+            {id: 4, value: "Nuxt"},
+            {id: 5, value: "Laravel"},
+            {id: 6, value: "HTML/CSS"}
         ],
         selectedRadio: 'java'
     };

@@ -12,11 +12,11 @@ class Languages extends Component {
         ],
 
         frameworks:[
-            {id: 1, value: "NuxtJS", xp:2.5},
-            {id: 2, value: "ReactJS", xp:2.25},
+            {id: 1, value: "NuxtJS", xp:3},
+            {id: 2, value: "ReactJS", xp:2.75},
             {id: 3, value: "NodeJS", xp:2.25},
             {id: 4, value: "Laravel", xp:2.25},
-            {id: 4, value: "Bootstrap", xp:3},
+            {id: 4, value: "Bootstrap", xp:3.5},
         ],
     }
 
